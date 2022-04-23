@@ -1,3 +1,2 @@
 Hi, I'm OscarPowell. I'm currently learning and doing some projects in React, MATLAB, Python, Docker, Kubernetes and Terraform.
-Not all of my projects are public on here, but my most recent is the Checkers App. Currently interested in cloud and data science 
-technologies.
+Not all of my projects are public on here, but my most recent is the Testing_RL repository, using mainly shallow learning, value-based RL methods to investigate the resiliency of such algorithms to adversarial attacks. Currently interested in cloud and data science technologies.
