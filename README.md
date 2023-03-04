@@ -1,2 +1,5 @@
-Hi, I'm OscarPowell. I'm currently learning and doing some projects in React, MATLAB, Python, Docker, Kubernetes and Terraform.
-Not all of my projects are public on here, but my most recent is the Testing_RL repository, using mainly shallow learning, value-based RL methods to investigate the resiliency of such algorithms to adversarial attacks. Currently interested in cloud and data science technologies.
+My projects include technologies such as React, MATLAB, Python, Docker, Kubernetes and Terraform.
+
+Repos:
+Testing_RL repository - Using mainly shallow learning, value-based RL methods to investigate the resiliency of such algorithms to adversarial attacks. 
+react-checkers-app - App to play chess or checkers locally (Requires two players). Turn based. Based on React and I've got a hosted version on Netlify.
